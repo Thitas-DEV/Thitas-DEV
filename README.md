@@ -5,7 +5,7 @@
   <br>
   <ul>
     <li>🚀 Desenvolvedor Full Stack com foco em <strong>Backend Java</strong></li>
-    <li>☕ Apaixonado por <strong>Spring Boot, JPA e APIs REST</strong></li>
+    <li>☕ Apaixonado por <strong>java, Spring Boot</strong></li>
     <li>🌐 Também trabalho com <strong>JavaScript, TypeScript e Node.js</strong></li>
     <li>🗄️ Experiência com bancos relacionais: <strong>Oracle, MySQL e PostgreSQL</strong></li>
   </ul>
